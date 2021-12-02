@@ -10,7 +10,7 @@ services:
     image: nginx:stable-alpine
     container_name: nginx-container-doctrine
     ports:
-      - "7002:80"
+      - "7005:80"
     volumes:
       - ./app:/var/www/project
       - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
@@ -27,7 +27,7 @@ services:
       dockerfile: ./php/Dockerfile
     container_name: php74-container-doctrine
     ports:
-      - "9602:9000"
+      - "9605:9000"
     volumes:
       - ./app:/var/www/project
     networks:
