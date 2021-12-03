@@ -10,7 +10,13 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class QuestionController extends AbstractController
 {
+    /**
+     * @var LoggerInterface
+     */
     private $logger;
+    /**
+     * @var bool 
+     */
     private $isDebug;
 
     public function __construct(LoggerInterface $logger, bool $isDebug)

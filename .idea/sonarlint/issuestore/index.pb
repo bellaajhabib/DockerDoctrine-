@@ -5,8 +5,6 @@ R
 "app/config/packages/framework.yaml,0\2\02661764242c83931727cfb07608ab8230a745ca
 =
 app/README.md,4\c\4c5b4e01137160a7f4b20b65b547907a29541367
-D
-app/public/index.php,d\f\df187f96b153386aefda0ec4775d5524cf695467
 U
 %app/templates/question/show.html.twig,e\c\eccc3c3f1ca0d1d61d83b01cab827422b7adf940
 N
@@ -21,14 +19,10 @@ W
 'app/config/packages/webpack_encore.yaml,7\0\7087ae929d1f219979fa73b436537b43e7d655fe
 F
 app/assets/css/app.css,7\8\7879238bb1ac055782a165b31756797edd8eb108
-X
-(app/src/Controller/CommentController.php,2\0\201c81c06de96e5a6876f1bd44a550c1d485b81c
 B
 app/src/Kernel.php,1\6\161a0b22cd72a61a49505ed7955276341703e836
 D
 app/assets/js/app.js,e\1\e1fd279988594917be0694d20834cebbac9589db
-F
-app/config/bundles.php,b\4\b4961d78ac56e54cb28668f65c4ea457390c2994
 U
 %app/config/packages/prod/routing.yaml,3\1\31fa74ba7b859ec9a74666fc23c283329277d233
 V
@@ -51,8 +45,6 @@ L
 app/config/services_dev.yaml,a\1\a1aed12383ef55368cbaba0f5b12f596b663968b
 U
 %app/config/packages/prod/monolog.yaml,6\c\6c5f40afbc7963ef62b793c68f06a6502deece09
-Y
-)app/src/Controller/QuestionController.php,1\b\1b153b960fc62f525d6e221d70728f0ffe1d1369
 H
 app/config/services.yaml,1\4\14e613bc89fc8a782b70dd8af2f680390710ac32
 R
